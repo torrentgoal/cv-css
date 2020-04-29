@@ -1,0 +1,179 @@
+/********************************************** CLASS SECTION ***************************************/
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', cursive;
+  font-size: 100%;
+  line-height: 2.5;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  line-height: 2;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color: #66BFBF;
+  font-weight: normal;
+  line-height: 2;
+}
+
+h3 {
+  font-family: 'Special Elite', cursive;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+  margin: 10px 20px;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+#h3-contact {
+  font-family: 'Fredoka One', cursive;
+  color: #222831;
+}
+
+#h2-SM {
+  color: #442727;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 0 auto 0 auto;
+  text-align: left;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.text-align {
+  line-height: 2;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+.mountain-img {
+  height: 250px;
+  width: 500px;
+}
+
+.profile-pic {
+  height: 150px;
+  width: 150px;
+}
+
+.youtube {
+  height: 150px;
+  width: 150px;
+  float: right;
+  margin-right: 30px;
+}
+
+.web {
+  height: 150px;
+  width: 150px;
+  float: left;
+  margin-right: 30px;
+}
+
+.contact {
+  height: 50px;
+  width: 50px;
+}
+
+.footer-link {
+  font-family: 'Fredoka One', cursive;
+}
+
+.btn {
+  font-family: 'Righteous', cursive;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.copy-right {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.contact-button {
+  background: #11CDD4;
+  background-image: -webkit-linear-gradient(top, #11CDD4, #11999B);
+  background-image: -moz-linear-gradient(top, #11CDD4, #11999B);
+  background-image: -ms-linear-gradient(top, #11CDD4, #11999B);
+  background-image: -o-linear-gradient(top, #11CDD4, #11999B);
+  background-image: linear-gradient(to bottom, #11CDD4, #11999B);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  color: #FFFFFF;
+  font-family: Arial;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+
+}
+
+.contact-button:hover {
+  background: #30E3CB;
+  background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AB);
+  background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AB);
+  background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AB);
+  background-image: -o-linear-gradient(top, #30E3CB, #2BC4AB);
+  background-image: linear-gradient(to bottom, #30E3CB, #2BC4AB);
+  text-decoration: none;
+}
